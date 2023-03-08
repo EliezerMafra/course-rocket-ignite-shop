@@ -39,9 +39,15 @@ Figma Layout: [CLICK HERE](https://www.figma.com/file/OIJJEW24DFiJO6XLqHw2DM/Ign
 	```
 
 ## 📸 Screenshots
-<p align='center'>Work in progress</p>
+![image](https://user-images.githubusercontent.com/32603174/223793120-1b4600da-366d-4aa2-9c73-9c5633f8a45b.png "Home Page")
 
-![image](# "Home page")
+![image](https://user-images.githubusercontent.com/32603174/223793308-47c3aa9f-88f1-4337-9970-61267a74430b.png "Product page")
+
+![image](https://user-images.githubusercontent.com/32603174/223793338-5a8ed54f-5f15-447a-be3a-ed624110627f.png "Payment on Stripe page")
+
+![image](https://user-images.githubusercontent.com/32603174/223793364-fadd6619-5488-48ec-bc2d-a637ef7376ca.png "Success page")
+
+
 
 
 
