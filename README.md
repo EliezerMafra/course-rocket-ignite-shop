@@ -8,6 +8,9 @@ The project was developed during Rocketseat Ignite Course and it is a front-end 
 
 - ReactJS with Typescript
 - NextJS
+- Stripe
+- Stitches
+- Keen Slider
 
 ## 📜 Layout
 
